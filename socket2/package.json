@@ -1,0 +1,13 @@
+{
+  "name": "teste-sockets",
+  "version": "0.0.1",
+  "description": "Teste sockets",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^2.0.3"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1"
+  }
+}
